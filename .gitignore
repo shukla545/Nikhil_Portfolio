@@ -12,3 +12,5 @@ pnpm-debug.log*
 dev-*.log
 *.tsbuildinfo
 portfolio-screenshot-*.png
+
+.vercel
